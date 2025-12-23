@@ -4,7 +4,7 @@ I’m a first-year AI & Data Science student at Middlesex University, passionate
 
 🔭 Currently Working On
 
-Learning advanced Python programming and data science libraries
+Learning basic Python programming and data science libraries
 Exploring machine learning models and AI applications
 Building personal projects to showcase in my GitHub portfolio
 
