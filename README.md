@@ -13,7 +13,7 @@ Building personal projects to showcase in my GitHub portfolio
 Machine Learning & Deep Learning
 Data Analysis & Visualization
 Python basics
-AI tools and frameworks like TensorFlow and PyTorch
+Data Structures and algorithms
 
 💻 Tools & Technologies I Use
 
