@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Abdelkerim
 
-I’m a first-year AI & Data Science student at Middlesex University, passionate about artificial intelligence, machine learning, and data-driven solutions. I love exploring new technologies and building projects that solve real-world problems.
+I’m a first-year AI & Data Science student at Middlesex University, passionate about artificial intelligence, machine learning, and data-driven solutions. I love exploring new technologies and building projects things! One day, I'll become an AI Engineer!
 
 🔭 Currently Working On
 
@@ -22,15 +22,16 @@ Data Science Tools: Pandas, NumPy, Matplotlib, Seaborn
 AI & ML Frameworks: TensorFlow, PyTorch, Scikit-learn
 Version Control & Collaboration: Git, GitHub
 
-👯 Looking to Collaborate On
+I would like to collaborate on:
 
 AI & Machine Learning Projects
 Data Science & Analytics Projects
 Automation & Python-based Tools
 
-📫 How to Reach Me
+You can reach me using my email and Other personal accounts:
+
 Email: [doutoumabdelkerim90@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/abdelkerim-habib-doutoum-3616823a1/]
 
 ⚡ Fun Fact
-I’m a curious learner, love volleyball, and enjoy exploring innovative tech projects in my free time!
+I’m a curious learner, love volleyball 🏐 , and enjoy exploring innovative tech projects in my free time!
