@@ -34,6 +34,5 @@ I'm actively looking for:
 
 You can reach me using my email and Other personal accounts:
 **Gmail:** doutoumabdelkerim90@gmail.com
-**LinkedIn:** 
-
+and my LinkedIn is pinned under my profile
 ⚡ **Fun fact:** When I'm not training models, I'm training on the volleyball court 🏐
