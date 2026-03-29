@@ -1,35 +1,39 @@
-## Hi there 👋, I'm Abdelkerim
+# Hi there, I'm Abdelkerim 👋
 
-I’m a first-year AI & Data Science student at Middlesex University, passionate about artificial intelligence, machine learning, and data-driven solutions. I love exploring new technologies and building projects things! One day, I'll become an AI Engineer!
+> AI & Data Science Student · Middlesex University · Future AI Engineer
 
-🔭 Currently Working On
+I'm on a mission to understand how intelligent systems work — and eventually build
+ones that solve real problems that actually matter. Currently in my first year,
+laying strong foundations in Python, ML, and Data Science.
 
-Am currently building my foundation in Python Programming and ML/AI basic and building stuff in my free time!
+---
 
-🌱 Currently Learning
+## 🚀 What I'm Building & Learning
 
-Machine Learning & Deep Learning
-Data Analysis & Visualization
-Python basics
-Data Structures and algorithms
+- 🔭 **Building:** Fun Mini-Projects to sharpen my engineering instincts
+- 🌱 **Learning:** Machine Learning · Python · Algorithms
+- 🎯 **Goal:** Land an AI/ML internship and grow into a skilled AI Engineer
+- 🤝 **Open to:** Collaborations on AI, Data Science, and Python automation projects
 
-💻 Tools & Technologies I Use
+---
 
-Programming Languages: Python, SQL
-Data Science Tools: Pandas, NumPy, Matplotlib, Seaborn
-AI & ML Frameworks: TensorFlow, PyTorch, Scikit-learn
-Version Control & Collaboration: Git, GitHub
+## 🛠️ Tools & Technologies
 
-I would like to collaborate on:
+-**Languages:** Python
 
-AI & Machine Learning Projects
-Data Science & Analytics Projects
-Automation & Python-based Tools
+-**FrameWorks and Libraries:** Pandas, Numpy
+
+-**Tools and Platforms:** Git, Jupyter notebook, VS Code.
+
+## 🤝 Let's Connect & Collaborate
+
+I'm actively looking for:
+- → Collaborators on **AI/ML or Data Science projects**
+- → **Mentors** in the AI/ML space
+- → **Internship opportunities** in AI & Data Science
 
 You can reach me using my email and Other personal accounts:
+**Gmail:** doutoumabdelkerim90@gmail.com
+**LinkedIn:** 
 
-Email: [doutoumabdelkerim90@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/abdelkerim-habib-doutoum-3616823a1/]
-
-⚡ Fun Fact
-I’m a curious learner, love volleyball 🏐 , and enjoy exploring innovative tech projects in my free time!
+⚡ **Fun fact:** When I'm not training models, I'm training on the volleyball court 🏐
